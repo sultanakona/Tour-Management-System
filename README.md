@@ -1,17 +1,21 @@
 # [Tour Management System](http://localhost/tour/tour/index.php)
 
 
-This project is developed using PHP and MySQL. It is a web-based Tour Management System where users can browse tour packages, check availability, make enquiries, and admins can manage bookings, packages, and tickets.
+The Tour Management System is a fully responsive, database-driven web application built with PHP and MySQL. It enables customers to explore tour packages, verify availability, and make bookings or enquiries online. The system also provides administrators with a comprehensive dashboard to manage packages, reservations, and ticketing operations seamlessly.
 
 ## Features
 
-- User registration and login
-- Browse and view tour packages
-- Check package availability
-- Enquiry and booking system
-- Admin panel for managing packages, bookings, and tickets
-- Password recovery and change password
-- Responsive design using HTML, CSS, and Bootstrap
+- **User Registration & Login:** New users can create an account, login securely, and manage their bookings.
+- **Tour Package Browsing:** Users can view all available tour packages with detailed information, images, and prices.
+- **Package Availability Check:** Users can check the availability of tour slots before making a booking.
+- **Enquiry & Booking System:** Simple enquiry form and booking process for interested customers.
+- **Ticket Issuance:** Automated ticket issuance after successful booking confirmation.
+- **Admin Dashboard:** Secure admin panel for managing packages, user enquiries, bookings, and tickets.
+- **Password Management:** Users can change or recover their password easily.
+- **Responsive Design:** Fully responsive layout that works seamlessly on desktops, tablets, and mobiles.
+- **Database Driven:** All data is stored and managed using MySQL database.
+- **Clean Codebase:** Easy to maintain, modify, and extend.
+
 
 ## Technology Used
 
@@ -35,13 +39,9 @@ This project is developed using PHP and MySQL. It is a web-based Tour Management
 - `css/`, `js/`, `images/`, `fonts/` : Assets
 - `sql file/` : Database dump
 
-## Screenshots
 
-Add screenshots in a `screenshots/` folder and update the links below.
+# [Visit this Site to Preview](http://localhost/tour/tour/index.php)
 
-![Home Page](screenshots/home.png)
-![Package Details](screenshots/package-details.png)
-![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ## License
 
