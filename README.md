@@ -43,6 +43,4 @@ The Tour Management System is a fully responsive, database-driven web applicatio
 # [Visit this Site to Preview](http://localhost/tour/tour/index.php)
 
 
-## License
 
-This project is open-source and available for educational purposes.
